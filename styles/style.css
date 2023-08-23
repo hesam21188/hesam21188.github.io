@@ -1,12 +1,3 @@
 body{
     font-family: 'IRANYekan', sans-serif;
 }
-.text-bg-bronze{
-    color: #fff !important;
-    background-color: #CD7F32 !important;
-}
-.text-bg-diamond{
-    color: #fff !important;
-    /* background-color: #CD7F32 !important; */
-    background-image: url("/media/download.jpg");
-}
